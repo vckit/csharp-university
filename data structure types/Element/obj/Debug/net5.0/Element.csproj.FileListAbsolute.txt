@@ -1,0 +1,15 @@
+/Users/thevckit/Desktop/WORK | Magomedov/university/sofia/Element/bin/Debug/net5.0/Element.deps.json
+/Users/thevckit/Desktop/WORK | Magomedov/university/sofia/Element/bin/Debug/net5.0/Element.runtimeconfig.json
+/Users/thevckit/Desktop/WORK | Magomedov/university/sofia/Element/bin/Debug/net5.0/Element.runtimeconfig.dev.json
+/Users/thevckit/Desktop/WORK | Magomedov/university/sofia/Element/bin/Debug/net5.0/Element.dll
+/Users/thevckit/Desktop/WORK | Magomedov/university/sofia/Element/bin/Debug/net5.0/ref/Element.dll
+/Users/thevckit/Desktop/WORK | Magomedov/university/sofia/Element/bin/Debug/net5.0/Element.pdb
+/Users/thevckit/Desktop/WORK | Magomedov/university/sofia/Element/obj/Debug/net5.0/Element.csproj.AssemblyReference.cache
+/Users/thevckit/Desktop/WORK | Magomedov/university/sofia/Element/obj/Debug/net5.0/Element.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thevckit/Desktop/WORK | Magomedov/university/sofia/Element/obj/Debug/net5.0/Element.AssemblyInfoInputs.cache
+/Users/thevckit/Desktop/WORK | Magomedov/university/sofia/Element/obj/Debug/net5.0/Element.AssemblyInfo.cs
+/Users/thevckit/Desktop/WORK | Magomedov/university/sofia/Element/obj/Debug/net5.0/Element.csproj.CoreCompileInputs.cache
+/Users/thevckit/Desktop/WORK | Magomedov/university/sofia/Element/obj/Debug/net5.0/Element.dll
+/Users/thevckit/Desktop/WORK | Magomedov/university/sofia/Element/obj/Debug/net5.0/ref/Element.dll
+/Users/thevckit/Desktop/WORK | Magomedov/university/sofia/Element/obj/Debug/net5.0/Element.pdb
+/Users/thevckit/Desktop/WORK | Magomedov/university/sofia/Element/obj/Debug/net5.0/Element.genruntimeconfig.cache
