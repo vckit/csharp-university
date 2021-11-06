@@ -57,7 +57,7 @@ namespace ArrayFox
 
             for (int i = 1; i < collection.Length; i++)
             {
-                if (collection[i] > 0 && collection[i - 1] >= 0)
+                if (collection[i] >= 0 && collection[i - 1] >= 0)
                     return false;
             }
 
