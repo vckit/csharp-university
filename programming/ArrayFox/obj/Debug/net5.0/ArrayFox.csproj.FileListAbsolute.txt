@@ -1,0 +1,15 @@
+/Users/thevckit/Desktop/WORK | Magomedov/university/programming/ArrayFox/bin/Debug/net5.0/ArrayFox.deps.json
+/Users/thevckit/Desktop/WORK | Magomedov/university/programming/ArrayFox/bin/Debug/net5.0/ArrayFox.runtimeconfig.json
+/Users/thevckit/Desktop/WORK | Magomedov/university/programming/ArrayFox/bin/Debug/net5.0/ArrayFox.runtimeconfig.dev.json
+/Users/thevckit/Desktop/WORK | Magomedov/university/programming/ArrayFox/bin/Debug/net5.0/ArrayFox.dll
+/Users/thevckit/Desktop/WORK | Magomedov/university/programming/ArrayFox/bin/Debug/net5.0/ref/ArrayFox.dll
+/Users/thevckit/Desktop/WORK | Magomedov/university/programming/ArrayFox/bin/Debug/net5.0/ArrayFox.pdb
+/Users/thevckit/Desktop/WORK | Magomedov/university/programming/ArrayFox/obj/Debug/net5.0/ArrayFox.csproj.AssemblyReference.cache
+/Users/thevckit/Desktop/WORK | Magomedov/university/programming/ArrayFox/obj/Debug/net5.0/ArrayFox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thevckit/Desktop/WORK | Magomedov/university/programming/ArrayFox/obj/Debug/net5.0/ArrayFox.AssemblyInfoInputs.cache
+/Users/thevckit/Desktop/WORK | Magomedov/university/programming/ArrayFox/obj/Debug/net5.0/ArrayFox.AssemblyInfo.cs
+/Users/thevckit/Desktop/WORK | Magomedov/university/programming/ArrayFox/obj/Debug/net5.0/ArrayFox.csproj.CoreCompileInputs.cache
+/Users/thevckit/Desktop/WORK | Magomedov/university/programming/ArrayFox/obj/Debug/net5.0/ArrayFox.dll
+/Users/thevckit/Desktop/WORK | Magomedov/university/programming/ArrayFox/obj/Debug/net5.0/ref/ArrayFox.dll
+/Users/thevckit/Desktop/WORK | Magomedov/university/programming/ArrayFox/obj/Debug/net5.0/ArrayFox.pdb
+/Users/thevckit/Desktop/WORK | Magomedov/university/programming/ArrayFox/obj/Debug/net5.0/ArrayFox.genruntimeconfig.cache
