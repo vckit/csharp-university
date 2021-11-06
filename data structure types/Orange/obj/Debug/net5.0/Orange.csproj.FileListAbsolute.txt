@@ -1,0 +1,15 @@
+/Users/thevckit/Desktop/WORK | Magomedov/university/data structure types/Orange/bin/Debug/net5.0/Orange.deps.json
+/Users/thevckit/Desktop/WORK | Magomedov/university/data structure types/Orange/bin/Debug/net5.0/Orange.runtimeconfig.json
+/Users/thevckit/Desktop/WORK | Magomedov/university/data structure types/Orange/bin/Debug/net5.0/Orange.runtimeconfig.dev.json
+/Users/thevckit/Desktop/WORK | Magomedov/university/data structure types/Orange/bin/Debug/net5.0/Orange.dll
+/Users/thevckit/Desktop/WORK | Magomedov/university/data structure types/Orange/bin/Debug/net5.0/ref/Orange.dll
+/Users/thevckit/Desktop/WORK | Magomedov/university/data structure types/Orange/bin/Debug/net5.0/Orange.pdb
+/Users/thevckit/Desktop/WORK | Magomedov/university/data structure types/Orange/obj/Debug/net5.0/Orange.csproj.AssemblyReference.cache
+/Users/thevckit/Desktop/WORK | Magomedov/university/data structure types/Orange/obj/Debug/net5.0/Orange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thevckit/Desktop/WORK | Magomedov/university/data structure types/Orange/obj/Debug/net5.0/Orange.AssemblyInfoInputs.cache
+/Users/thevckit/Desktop/WORK | Magomedov/university/data structure types/Orange/obj/Debug/net5.0/Orange.AssemblyInfo.cs
+/Users/thevckit/Desktop/WORK | Magomedov/university/data structure types/Orange/obj/Debug/net5.0/Orange.csproj.CoreCompileInputs.cache
+/Users/thevckit/Desktop/WORK | Magomedov/university/data structure types/Orange/obj/Debug/net5.0/Orange.dll
+/Users/thevckit/Desktop/WORK | Magomedov/university/data structure types/Orange/obj/Debug/net5.0/ref/Orange.dll
+/Users/thevckit/Desktop/WORK | Magomedov/university/data structure types/Orange/obj/Debug/net5.0/Orange.pdb
+/Users/thevckit/Desktop/WORK | Magomedov/university/data structure types/Orange/obj/Debug/net5.0/Orange.genruntimeconfig.cache
